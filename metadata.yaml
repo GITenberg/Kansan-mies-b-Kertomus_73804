@@ -1,0 +1,28 @@
+_repo: Kansan-mies-b-Kertomus_73804
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lassinen, Emil
+    birthdate: 1861
+    deathdate: 1938
+    gutenberg_agent_id: '37583'
+    url: http://www.gutenberg.org/2009/agents/37583
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Lassinen
+description: ''
+gutenberg_issued: '2024-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73804'
+language: fi
+pgterms:marc905: 20240602233652lassinen
+pgterms:marc906: '1906'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kansan mies : $b Kertomus'
+url: http://www.gutenberg.org/ebooks/73804
